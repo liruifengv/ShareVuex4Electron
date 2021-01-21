@@ -1,0 +1,2 @@
+# ShareVuex4Electron
+多个Electron窗口共享Vuex数据
